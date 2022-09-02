@@ -4,3 +4,5 @@
 <h1>JavaScript Statements</h2>
 <p>A JavaScript program is list of statements to be executedby a computer.</p>
 <p id="demo"></p>
+</body>
+</html>
